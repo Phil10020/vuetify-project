@@ -16,7 +16,7 @@
 
 <script setup>
 const clubs = [
-  { name: '吉他社', path: '/guitar' },
+  { name: '吉他社123456', path: '/guitar' },
   { name: '熱舞社', path: '' },
   { name: '棒球社', path: '' },
   { name: '羽球社', path: '' },
